@@ -1,0 +1,6 @@
+BOT_TOKEN    = "8396030219:AAGPzu-PImtTEV4trROAba7lEbduCNfU20Y"
+CHANNEL_ID   = "@yourchannel"
+ADMIN_IDS    = [7265489223]
+DB_FILE      = "bot.db"
+GITHUB_TOKEN = "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"
+GITHUB_USER  = "God5aja5"
